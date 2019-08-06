@@ -1,3 +1,2 @@
 # WTFIsMyLeagueChamp
-
-test
+Deployed https://tannerbyers.github.io/WTFIsMyLeagueChamp/
